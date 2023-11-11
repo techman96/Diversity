@@ -32,8 +32,6 @@
   to{opacity: 100%;}
 }
 
-
-
  .heading{
   margin: 0 auto;
   font-family: Yatra one;
@@ -88,9 +86,16 @@ u:hover{
   color: olive;
 }
 
+.text p{
+  padding: 10px 0;
+}
+
 @media screen and (min-width:850px) {
   body{
     max-width: 70%;
+}
+.header{
+  font-size: 3.0em;
 }
 .heading{
   font-size: 1.3em;

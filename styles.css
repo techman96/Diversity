@@ -87,7 +87,8 @@ u:hover{
 }
 
 .text p{
-  padding: 10px 0;
+  padding: 13px 0;
+  font-size: 1.3em;
 }
 
 @media screen and (min-width:850px) {
